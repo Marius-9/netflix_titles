@@ -1,54 +1,56 @@
-# 📊 Netflix Data Analysis
+📊 Netflix Data Analysis
 
-## 📌 Présentation du projet
+📌 Project Overview
 
-Ce projet consiste à réaliser une analyse exploratoire du catalogue Netflix afin d'identifier les tendances principales concernant les films et séries disponibles sur la plateforme.
+This project focuses on performing an exploratory data analysis of the Netflix catalog to identify the main trends and characteristics of movies and TV shows available on the platform.
 
-L'objectif est de nettoyer les données, explorer les informations disponibles et produire des insights utiles à partir du dataset Netflix.
-
----
-
-## 🎯 Objectifs du projet
-
-- Nettoyer et préparer le dataset Netflix
-- Analyser la répartition des films et séries
-- Étudier l'évolution des contenus au fil des années
-- Identifier les pays et réalisateurs les plus représentés
-- Analyser les catégories et caractéristiques du catalogue
-- Extraire des informations utiles à la prise de décision
+The objective is to clean the dataset, explore the available information, and generate meaningful insights through data analysis and visualization.
 
 ---
 
-## 🗂️ Dataset
+🎯 Project Objectives
 
-Le dataset utilisé contient des informations sur les titres disponibles sur Netflix :
-
-- Titre du contenu
-- Type (Film ou Série TV)
-- Réalisateur
-- Acteurs
-- Pays
-- Date d'ajout
-- Année de sortie
-- Classification (rating)
-- Durée
-- Catégorie
+- Clean and prepare the Netflix dataset for analysis
+- Analyze the distribution of movies and TV shows
+- Study content trends over the years
+- Identify the most represented countries and directors
+- Analyze content categories and characteristics
+- Extract valuable insights from the dataset
 
 ---
 
-## 🧹 Nettoyage des données
+🗂️ Dataset Description
 
-Les principales étapes réalisées :
+The dataset contains information about Netflix titles, including:
 
-- Analyse des valeurs manquantes
-- Traitement des doublons
-- Conversion et correction des formats de données
-- Vérification de la cohérence des informations
-- Préparation du dataset pour l'analyse
+- Title
+- Content type (Movie or TV Show)
+- Director
+- Cast
+- Country
+- Date added to Netflix
+- Release year
+- Rating
+- Duration
+- Categories and genres
 
 ---
 
-## 🛠️ Outils utilisés
+🧹 Data Cleaning Process
+
+The following data preparation steps were performed:
+
+- Analysis of missing values
+- Detection and treatment of duplicate records
+- Data type conversion and formatting corrections
+- Data consistency checks
+- Preparation of a clean dataset for analysis
+
+---
+
+🛠️ Tools & Technologies
+
+The project was developed using:
 
 - Python 🐍
 - Jupyter Notebook
@@ -59,29 +61,29 @@ Les principales étapes réalisées :
 
 ---
 
-## 📈 Analyses réalisées
+📈 Analysis Performed
 
-Les analyses portent notamment sur :
+The analysis includes:
 
-- La répartition des films et séries TV
-- L'évolution du nombre de contenus par année
-- Les pays produisant le plus de contenus
-- Les réalisateurs les plus présents
-- Les catégories les plus fréquentes
-
----
-
-## 📊 Résultats et insights
-
-L'analyse permet de mieux comprendre :
-
-- La composition du catalogue Netflix
-- Les tendances de production de contenus
-- Les caractéristiques principales des films et séries disponibles
+- Distribution of Movies and TV Shows
+- Evolution of Netflix content over the years
+- Countries producing the highest number of contents
+- Most frequent directors
+- Most common content categories and ratings
 
 ---
 
-## 👤 Auteur
+📊 Key Insights
 
-**Marius Mawaba Bodjona**  
+This analysis provides a better understanding of:
+
+- The composition of the Netflix catalog
+- Content production trends
+- The main characteristics of movies and TV shows available on Netflix
+
+---
+
+👤 Author
+
+Marius Mawaba BODJONA
 Data Analyst | Python | SQL | Power BI | Excel
